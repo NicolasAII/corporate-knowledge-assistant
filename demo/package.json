@@ -1,0 +1,10 @@
+{
+  "name": "knowledge-assistant-demo",
+  "private": true,
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}

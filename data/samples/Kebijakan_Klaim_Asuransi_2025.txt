@@ -1,0 +1,82 @@
+KEBIJAKAN KLAIM ASURANSI KESEHATAN KARYAWAN
+PT NUSANTARA DIGITAL SOLUSI
+Nomor: 002/SDM/KEB/I/2025
+Berlaku sejak: 1 Januari 2025
+
+Dokumen ini mengatur manfaat asuransi kesehatan, tata cara pengajuan klaim, serta pengecualian pertanggungan bagi karyawan PT Nusantara Digital Solusi dan tanggungannya.
+
+BAB I - KETENTUAN UMUM
+
+Pasal 1 - Ruang Lingkup
+1. Kebijakan ini berlaku bagi seluruh karyawan tetap PT Nusantara Digital Solusi yang telah terdaftar dalam program asuransi kesehatan Perusahaan.
+2. Karyawan kontrak mendapatkan manfaat sesuai ketentuan dalam perjanjian kerja masing-masing.
+3. Program asuransi kesehatan ini merupakan tambahan dari program BPJS Kesehatan yang wajib diikuti oleh seluruh karyawan.
+
+Pasal 2 - Definisi
+1. Rawat Jalan adalah perawatan medis tanpa menginap di rumah sakit, termasuk konsultasi dokter, pemeriksaan laboratorium, dan obat-obatan dengan resep.
+2. Rawat Inap adalah perawatan medis yang mengharuskan pasien menginap di rumah sakit sekurang-kurangnya satu malam.
+3. Reimbursement adalah penggantian biaya perawatan yang telah dibayarkan terlebih dahulu oleh karyawan.
+4. Kuitansi adalah bukti pembayaran resmi yang diterbitkan oleh fasilitas kesehatan.
+5. Tanggungan adalah anggota keluarga karyawan yang berhak atas manfaat asuransi sesuai Pasal 4.
+
+BAB II - MANFAAT DAN LIMIT
+
+Pasal 3 - Limit Manfaat
+1. Limit rawat jalan adalah Rp 5.000.000 (lima juta rupiah) per karyawan per tahun.
+2. Limit rawat inap adalah Rp 50.000.000 (lima puluh juta rupiah) per tahun.
+3. Biaya kamar rawat inap ditanggung maksimal Rp 1.000.000 (satu juta rupiah) per malam. Selisih biaya kamar di atas batas tersebut menjadi tanggungan karyawan.
+4. Penggantian kacamata diberikan maksimal Rp 1.500.000 (satu juta lima ratus ribu rupiah), satu kali setiap 2 (dua) tahun.
+5. Limit manfaat dihitung per tahun kalender, dari 1 Januari sampai dengan 31 Desember, dan sisa limit tidak dapat dibawa ke tahun berikutnya.
+
+Pasal 4 - Tanggungan
+1. Tanggungan yang berhak atas manfaat asuransi adalah pasangan sah karyawan dan maksimal 3 (tiga) orang anak.
+2. Anak yang ditanggung harus berusia di bawah 21 (dua puluh satu) tahun dan belum menikah.
+3. Karyawan wajib mendaftarkan tanggungan melalui HRIS dengan melampirkan kartu keluarga dan akta yang relevan.
+4. Limit manfaat tanggungan mengikuti limit karyawan yang bersangkutan.
+
+BAB III - TATA CARA KLAIM
+
+Pasal 5 - Batas Waktu Pengajuan Klaim
+1. Klaim reimbursement harus diajukan paling lambat 30 (tiga puluh) hari kalender setelah tanggal kuitansi.
+2. Klaim yang diajukan melewati batas waktu tersebut tidak akan diproses dan dianggap gugur.
+
+Pasal 6 - Dokumen Klaim
+1. Dokumen wajib untuk pengajuan klaim adalah sebagai berikut:
+a. formulir klaim yang telah diisi lengkap dan ditandatangani;
+b. kuitansi asli dari fasilitas kesehatan;
+c. resep dokter;
+d. surat diagnosis dari dokter yang merawat.
+2. Klaim dengan dokumen yang tidak lengkap akan dikembalikan kepada karyawan untuk dilengkapi. Batas waktu pada Pasal 5 tetap berlaku.
+
+Pasal 7 - Prosedur Pengajuan
+1. Klaim diajukan melalui portal HRIS pada menu "Klaim Kesehatan".
+2. Karyawan mengunggah salinan pindaian seluruh dokumen wajib dan menyerahkan kuitansi asli kepada Divisi Sumber Daya Manusia.
+3. Divisi Sumber Daya Manusia akan memverifikasi kelengkapan dan kebenaran dokumen klaim.
+
+Pasal 8 - Pembayaran Reimbursement
+1. Pembayaran reimbursement dilakukan dalam waktu 14 (empat belas) hari kerja setelah klaim dinyatakan lengkap dan disetujui.
+2. Pembayaran ditransfer ke rekening payroll karyawan yang terdaftar di Perusahaan.
+3. Status klaim dapat dipantau oleh karyawan melalui portal HRIS.
+
+BAB IV - PENGECUALIAN
+
+Pasal 9 - Biaya yang Tidak Ditanggung
+1. Biaya-biaya berikut tidak ditanggung oleh program asuransi kesehatan Perusahaan:
+a. perawatan estetika atau kosmetik, termasuk operasi plastik yang tidak bersifat medis;
+b. perawatan gigi kosmetik, seperti pemutihan gigi dan veneer;
+c. obat-obatan yang dibeli tanpa resep dokter.
+2. Biaya perawatan akibat tindakan yang melanggar hukum juga tidak ditanggung.
+
+BAB V - SANKSI DAN PENUTUP
+
+Pasal 10 - Sanksi
+1. Karyawan yang terbukti mengajukan klaim palsu atau memalsukan dokumen akan dikenakan sanksi sesuai Peraturan Perusahaan, termasuk kewajiban mengembalikan dana yang telah dibayarkan.
+2. Pelanggaran berat dapat berujung pada pemutusan hubungan kerja.
+
+Pasal 11 - Ketentuan Penutup
+1. Kebijakan ini berlaku sejak tanggal 1 Januari 2025.
+2. Pertanyaan terkait kebijakan ini dapat disampaikan kepada Divisi Sumber Daya Manusia melalui HRIS.
+
+Ditetapkan di Jakarta, 15 Desember 2024
+Direktur Sumber Daya Manusia
+PT Nusantara Digital Solusi
